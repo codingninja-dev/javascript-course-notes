@@ -8,11 +8,11 @@ The lectures are found in the [Javascript Series](https://github.com/codingninja
 
 ### Prerequisites
 
-No requirements for starting this series. Please have [node.js](https://nodejs.org/en/) installed to run the example lectures.
+No requirements for starting this series.
 
 ### Installing
 
-Pull down the repository and head into the lecture folder and run the command below.
+Please have [node.js](https://nodejs.org/en/) installed to run the example lectures. Pull down the repository and head into the lecture folder and run the command below.
 
 ```
 node index.js
