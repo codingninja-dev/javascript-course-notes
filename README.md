@@ -121,10 +121,10 @@ node index.js
 
 ## Extra Learning Material
 
-If you want to access more content on computer science you can visit our [site](https://www.liinks.co/codingninja) to find more information. If you want to put your Javascript coding to the test and solve real problem click below to start practicing!
+If you want to access more content on computer science you can visit our [site](https://www.liinks.co/codingninja) to find more information. If you want to put your coding skills to the test and solve real problem click below to start practicing!
 
 <p align = "center">
-<a href="https://edabit.com/challenges/javascript?ref=nelsonlee1" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/5fcf4fb9056cd927104425.png?a=86255-ae3f95&s=1322662-cbeeac" border="0"></a>
+<a href="https://edabit.com?ref=nelsonlee1" target="_BLANK" rel="nofollow"><img src="https://static.tapfiliate.com/5fcf4fb8f2a93129988852.png?a=86250-326e8e&s=1322662-cbeeac" border="0"></a>
 </p>
 
 ## Tools Used
