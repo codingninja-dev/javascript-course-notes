@@ -51,3 +51,24 @@ getName();
 ```
 
 <p>Remember that depending on the scoping of the variable of where you declared the variable it will be hoisted differently in block scope and function scope.</p>
+
+<h3>Variable Hoisting for Function Expression (Functions stored in a variable)</h3>
+
+<p>If you store a function in a variable it works the same way when a variable is hoisted to the top.</p>
+
+```javascript
+getName();
+var getName = function() {
+  console.log('Adam');
+};
+```
+
+<p>Basically getName is undefined and the below shows why. The console will throw error saying that getName is not a function and that its undefined.</p>
+
+```javascript
+var getName;
+getName();
+var getName = function() {
+  console.log('Adam');
+};
+```
